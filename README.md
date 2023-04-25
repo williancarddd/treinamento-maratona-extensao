@@ -24,12 +24,12 @@ No programa, existem três estágios. O introdutório, o intermerdiário e o ava
 
 ### Intermediário
 -> Curso
--> Contest Individuais 
--> Contest Coletivos Básicos
+<p>-> Contest Individuais 
+<p>-> Contest Coletivos Básicos
 
 ### Avançado
 -> A definir
--> Contest Coletivos Avançados
+<p>-> Contest Coletivos Avançados
 
 # 3 Contests :bow:
 Contests englobam questões, simulados e provas antigas relacionados ao tema da maratona. 
