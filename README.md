@@ -43,7 +43,7 @@ Dependendo de que estágio o integrante/time estiver, o contest coletivo serão 
 ## E o as provas com meu time fixo?
 Caso você, ainda sim, tenha interesse em fazer provas com seu time para a maratona, por exemplo, ficarão ao cargo de vocês a organização, elaboração e realização destas.
 
-# **Outro**
+# **Outro** :mag:
 ## Competições
 - [OBI](https://olimpiada.ic.unicamp.br/) (Olimpiada Brasileira de Informática)
 - [Maratona SBC de Programaçaõ](https://maratona.sbc.org.br/)
