@@ -1,9 +1,9 @@
 # treinamento-maratona-extensao
-# 1 - O Que é o projeto?
+# **1 - O Que é o projeto?**
 O Treinamento Maratona é um projeto cíclico que visa ensinar e treinar aos interessados em participar de competições de programação o básico da programação até conteúdos avançados para competições, além de estimular a competição entre os integrantes através de contests (provas) semanais individuais e coletivos.
 
 
-# 2 - Como o projeto é dividido? 
+# **2 - Como o projeto é dividido?**
 No programa, existem três estágios. O introdutório, o intermerdiário e o avançado. Para cada nível são dispostos diferentes metodologias de aprendizado e treinamento, além de atribuições. Por exemplo, quem está no nível intermediário, ainda que tenha os benefícios de terem contests (provas) organizados e curso voltado ao evento, devem auxiliar a turma que estiver na fase introdutória. 
 
 ## Curso :books:
@@ -31,7 +31,7 @@ No programa, existem três estágios. O introdutório, o intermerdiário e o ava
 -> A definir
 <p>-> Contest Coletivos Avançados
 
-# 3 - Contests :bow:
+# **3 - Contests** :bow:
 Contests englobam questões, simulados e provas antigas relacionados ao tema da maratona. 
 
 ## Individuais
@@ -43,3 +43,13 @@ Dependendo de que estágio o integrante/time estiver, o contest coletivo serão 
 ## E o as provas com meu time fixo?
 Caso você, ainda sim, tenha interesse em fazer provas com seu time para a maratona, por exemplo, ficarão ao cargo de vocês a organização, elaboração e realização destas.
 
+# **Outro**
+## Competições
+- [OBI](https://olimpiada.ic.unicamp.br/) (Olimpiada Brasileira de Informática)
+- [Maratona SBC de Programaçaõ](https://maratona.sbc.org.br/)
+
+## Plataformas de estudo
+- [Cses](https://cses.fi/)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
+- [hackrank](https://www.hackerrank.com/)
+- [codeforces](https://codeforces.com/)
