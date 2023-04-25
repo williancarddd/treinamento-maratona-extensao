@@ -48,7 +48,7 @@ Caso você, ainda sim, tenha interesse em fazer provas com seu time para a marat
 - [OBI](https://olimpiada.ic.unicamp.br/) (Olimpiada Brasileira de Informática)
 - [Maratona SBC de Programaçaõ](https://maratona.sbc.org.br/)
 
-## Plataformas de estudo
+## Plataformas de treinamento
 - [Cses](https://cses.fi/)
 - [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
 - [hackrank](https://www.hackerrank.com/)
