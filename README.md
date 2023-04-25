@@ -3,14 +3,14 @@
 O Treinamento Maratona é um projeto cíclico que visa ensinar e treinar aos interessados em participar de competições de programação o básico da programação até conteúdos avançados para competições, além de estimular a competição entre os integrantes através de contests (provas) semanais individuais e coletivos.
 
 
-# 2 Como o projeto é dividido?
+# 2 Como o projeto é dividido? 
 No programa, existem três estágios. O introdutório, o intermerdiário e o avançado. Para cada nível são dispostos diferentes metodologias de aprendizado e treinamento, além de atribuições. Por exemplo, quem está no nível intermediário, ainda que tenha os benefícios de terem contests (provas) organizados e curso voltado ao evento, devem auxiliar a turma que estiver na fase introdutória. 
 
-## Curso
+## Curso :books:
 ### Introdutório
 - Introdução à programação
 
-### Intermediário (2- periodo)
+### Intermediário
 - do c ao C++
 - Estruturas de dados avançadas (final do curso disponibilizado)
 
@@ -18,7 +18,7 @@ No programa, existem três estágios. O introdutório, o intermerdiário e o ava
 - Não tem curso para vocês
 - A definir (podem ter aulas ou testes com professores)
 
-## Atribuições
+## Atribuições  :pushpin:
 ### Introdutório
 -> Apenas curso
 
@@ -31,7 +31,7 @@ No programa, existem três estágios. O introdutório, o intermerdiário e o ava
 -> A definir
 -> Contest Coletivos Avançados
 
-# Contests
+# 3 Contests :bow:
 Contests englobam questões, simulados e provas antigas relacionados ao tema da maratona. 
 
 ## Individuais
